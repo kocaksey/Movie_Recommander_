@@ -100,8 +100,6 @@ def make_recommendations(dic, sim_users):
     return liste
 
 # DO_NOT_EDIT_ANYTHING_BELOW_THIS_LINE
-
-#
 def abs(v):
     return v if v > 0 else -v
 
